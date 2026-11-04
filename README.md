@@ -10,4 +10,4 @@
 
 # Authors
 
-(c) 2024 - 2025 WinDepends Project
+(c) 2024 - 2026 WinDepends Project
